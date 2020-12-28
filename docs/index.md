@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Stephen966/Stephen-C.V./edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
-```
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h1>Work Experience </h1>
+<h2> Real estate negotiator,</h2>
+<p>Brock Delappe Estate Agents, 21 Tyrconnell Rd, Inchicore, Dublin 8	August 2020– present KEY RESPONSIBILITIES •	Organising viewings for rental properties, securing high quality tenants, completing move in and move out reports, negotiating rents, communicating with landlords, general sales/customer service duties, organising maintenance, communicating with contractors and valuing rental properties. High degree of organisation, driving to meet new clients and long hours required to secure high value tenants/rents on a consistent basis.</p>
 
-### Jekyll Themes
+<h1>Teacher </h1>
+<p> Mount Carmel Secondary School, Kings Inn Street Dublin.•	Teaching students in a classroom-based setting. Analysing large amounts of data and delivering well structures lessons. Researching course material and adding to departments resources. Working effectively with other members of staff to control difficult situations and promote learning</p>
+</body>
+</html>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stephen966/Stephen-C.V./settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
